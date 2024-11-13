@@ -95,7 +95,7 @@ Contains the `TestPage` scene, set up for quick testing of keyboard functionalit
 ---
 
 ## License
-This asset is available for $1 on the Unity Asset Store. It’s free for use in personal and commercial projects. Modify freely to fit your project’s needs.
+This asset is available on the Unity Asset Store. It’s free for use in personal and commercial projects. Modify freely to fit your project’s needs.
 
 ---
 
