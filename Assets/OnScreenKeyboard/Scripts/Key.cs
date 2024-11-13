@@ -7,8 +7,11 @@ namespace PrabdeepDhaliwal.OnScreenKeyboard
     public class Key : MonoBehaviour
     {
         #region Fields
+        [HideInInspector]
         public Button button;                  // Button for this key
+        [HideInInspector]
         public TextMeshProUGUI primaryKeyText; // Text for the primary character (e.g., lowercase)
+        [HideInInspector]
         public TextMeshProUGUI secondaryKeyText; // Text for the secondary character (e.g., uppercase or alternative)
         public string primaryValue;            // Primary character value (e.g., 'a', '1')
         [SerializeField]
