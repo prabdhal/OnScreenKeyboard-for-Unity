@@ -109,7 +109,7 @@ namespace PrabdeepDhaliwal.OnScreenKeyboard
             // Select the input field if not already selected
             if (!selected)
             {
-                Selected(false); // Pass `true` to indicate selection from mouse click.
+                Selected(true); // Pass `true` to indicate selection from mouse click.
                 inputField.Select(); // Immediately allows typing with the mouse.
             }
         }
